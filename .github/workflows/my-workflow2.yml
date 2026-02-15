@@ -28,6 +28,3 @@ jobs:
         with:
           name: MyPackage
           path: dest
-          name: My First workflow
-
-      
